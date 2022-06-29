@@ -6,7 +6,6 @@
 
 
 
-   ![Snake animation](https://github.com/markaelie/markaelie/blob/output/github-contribution-grid-snake.svg) 
 <br>
   <img src="https://komarev.com/ghpvc/?username=markaelie&color=green" alt="markaelie" />
 </div>
