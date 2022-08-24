@@ -1,1 +1,1 @@
-<img src="https://komarev.com/ghpvc/?username=markaelie&color=blue" alt="markaelie" />
+<img src="https://komarev.com/ghpvc/?username=markaelie&color=grey" alt="markaelie" />
