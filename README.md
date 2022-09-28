@@ -63,15 +63,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 
-### :link: &nbsp;Connect with me
 
-<p align="center">
-<a href="https://markaelie.github.io/" target="_blank"><img src="https://img.shields.io/badge/-tony%20li-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=markaelie&color=grey" alt="markaelie"/>
 </p>
-
-
-### 🛠 &nbsp;Page Visits
-
-<img src="https://komarev.com/ghpvc/?username=markaelie&color=grey" alt="markaelie" />
-
