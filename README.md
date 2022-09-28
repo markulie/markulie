@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hey!+Markaelie+is+here.+;I'm+an+interactive+developer.+;Specializing+in+.Net+%2F+Unity+%2F+Unreal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hey!+Markaelie+is+here.+;I'm+an+Interactive+Developer.+;Specializing+in+.Net+%2F+Unity+%2F+Unreal)](https://git.io/typing-svg)
   
 
 </h1>
