@@ -15,8 +15,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=markaelie&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
 <p align="centre">
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TopStar88&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Topstar88&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
 
 
 ### 🛠 &nbsp;Tech Stack
