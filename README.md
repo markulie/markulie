@@ -10,8 +10,8 @@
 
 
 <p align="center">
-<a href="https://github.com/markaelie">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=markaelie&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/markulie">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=markulie&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=markaelie&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
@@ -65,5 +65,5 @@
 
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=markaelie&color=grey" alt="markaelie"/>
+<img src="https://komarev.com/ghpvc/?username=markaelie&color=grey" alt="markulie"/>
 </p>
