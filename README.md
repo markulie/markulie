@@ -1,5 +1,23 @@
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FA573A&size=24&lines=Hey!+I+am+a+senior+Mobile+Developer;Specializing+in+iOS+and+Android+.+.+.;)](https://git.io/typing-svg)
+  
+
+</h1>
 
 
+
+<p align="center">
+<a href="https://github.com/markaelie">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=markaelie&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=markaelie&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<p align="centre">
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=markaelie88&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
 
 ### 🛠 &nbsp;Tech Stack
 
