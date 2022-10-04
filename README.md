@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/markulie/markulie/blob/main/unity-banner_green.png"></p>
+<p align="center"><img src="https://github.com/markulie/markulie/blob/main/unity-banner_green.png" width="600" height="auto"></p>
 
 
 
