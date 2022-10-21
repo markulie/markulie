@@ -3,23 +3,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hey!+Mark+is+here.+;I'm+an+Interactive+Developer.+;Specializing+in+.NET+%2F+Unity+%2F+Unreal)](https://git.io/typing-svg)
-  
 
-</h1>
-
-
-<!--
-<p align="center">
-<a href="https://github.com/markulie">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=markulie&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=markulie&layout=compact&langs_count=8&theme=github_dark"/>
-</a>
-</p>
--->
-
-<p align="centre">
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=markulie&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
 
 
 ### 🛠 &nbsp;Tech Stack
